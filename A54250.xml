@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elegy on the much lamented death of the Right Honourable Sr. Hugh Windham, Kt. one of His Majesties justices of the Court of Common-Pleas Westminster, who departed this life upon his circuit at the assizes in the city of Norwich, July, 1684.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54250</idno>
+            <idno type="STC">Wing P140</idno>
+            <idno type="STC">ESTC R35090</idno>
+            <idno type="EEBO-CITATION">14990087</idno>
+            <idno type="OCLC">ocm 14990087</idno>
+            <idno type="VID">103032</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54250)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103032)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1576:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elegy on the much lamented death of the Right Honourable Sr. Hugh Windham, Kt. one of His Majesties justices of the Court of Common-Pleas Westminster, who departed this life upon his circuit at the assizes in the city of Norwich, July, 1684.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Walthoe ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>At head of title: P.M.S.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Windham, Hugh, --  Sir, 1603?-1684 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="elegy_poem">
+            <pb facs="tcp:103032:1"/>
+            <head>P. M. S. AN ELEGY, On the much Lamented Death, of the Right Honourable S<hi rend="sup">r</hi>. Hugh Windham K<hi rend="sup">t</hi>. ONE OF His MAJESTIES Juſtices of the Court of <hi>Common-Pleas Weſtminſter,</hi> who departed this Life upon his Cir<g ref="char:EOLhyphen"/>cuit, at the Aſſizes in the City of <hi>Norwich. July</hi> 1684.</head>
+            <epigraph>
+               <q>
+                  <l>—Nil non Mortale Tenemus—</l>
+                  <l>Pectoris Exceptis Ingeniique bonis.</l>
+               </q>
+            </epigraph>
+            <l>THe Fatal Bell had tol'd its diſmal Knell,</l>
+            <l>And Tears from every Eye in Rivers fell:</l>
+            <l>Sighs fill'd the Air, and e'ry generous Breaſt</l>
+            <l>By Sorrows too unwelcome Load was preſt</l>
+            <l>When wondring at the Cauſe, the News was ſpread,</l>
+            <l>The Good, the Juſt, the Learned <hi>WINDHAM</hi>'s dead,</l>
+            <l>Weep then, weep vain Mortality, ſaid I,</l>
+            <l>Till every Tear become an <hi>Elegy;</hi>
+            </l>
+            <l>And when your Eye-ſprings fail for want of Store,</l>
+            <l>Then grieve and ſigh that you can weep no more.</l>
+            <l>Oh Fate, Inexorable Fate! What truſt</l>
+            <l>To Titles, when they but Intitle Duſt?</l>
+            <l>To ſay here lyes the Great, here lies the Brave,</l>
+            <l>Is all the poor diſtinction in the Grave;</l>
+            <l>And when thy Summons, Summons us to Death,</l>
+            <l>The Beſt and Wiſeſt muſt reſign their breath:</l>
+            <l>Elſe had not <hi>WINDHAM</hi> dyed, but liv'd to ſee</l>
+            <l>The outmoſt Periods of Mortality.</l>
+            <l>When Aged Time the pangs of Death ſhall bear,</l>
+            <l>And Natures ſelf no humane frailties wear.</l>
+            <pb facs="tcp:103032:2" rendition="simple:additions"/>
+            <l>His knowledge like the rays of light had pry'd</l>
+            <l>Through e'ry Science in Arts boſom hid:</l>
+            <l>Which ſtill, as he renewed, he ſtill beſtow'd</l>
+            <l>Not for his own, but for the general good.</l>
+            <l>So for Mans profit, the laborious Sun</l>
+            <l>Round its Eccliptick Line ſtill trudges on</l>
+            <l>In conſtant pace, and never doth complain</l>
+            <l>Of his long Journey, Labour, or his Pain:</l>
+            <l>As he in Paths of Juſtice ſpent his days,</l>
+            <l>Without deſigns of Honour or of Praiſe;</l>
+            <l>And 'midſt the many Hurricanes of State,</l>
+            <l>Juſtly preſerv'd his Ancient well-fill'd Seat:</l>
+            <l>Till with the Reverend Grey his Head was crown'd,</l>
+            <l>And unſought Glories made his Name Renown'd:</l>
+            <l>When like Wiſe <hi>Samuell,</hi> in a good old Age,</l>
+            <l>Like Fruit full ripe, He left his earthly Stage,</l>
+            <l>By <hi>Iſraels</hi> Sons lamented to his Tomb,</l>
+            <l>The Glory of the paſt, and Ages yet to come.</l>
+            <l>Great Man farewell, thy Countries chief delight,</l>
+            <l>Great without Pride, and Wiſe without Conceit:</l>
+            <l>Thou happy art, ah happy, happy thou,</l>
+            <l>Who through Lives Sea has reacht thy Harbour now:</l>
+            <l>And art of thy <hi>Jeruſalem</hi> poſſeſt,</l>
+            <l>Amongſt th' immortal Miriads of the bleſt;</l>
+            <l>Whilſt we, who ſadly tarry yet behind,</l>
+            <l>Are made the ſport of e'ry Wave and Wind.</l>
+            <l>Oh Life what art thou that we court thee ſo?</l>
+            <l>So loth to loſe, ſo loth to let thee go?</l>
+            <l>Fools as we are, like Children pleas'd with Toys,</l>
+            <l>In liew of which we loſe ſubſtantial Joys;</l>
+            <l>For never can we hope to reſt before,</l>
+            <l>Like him, we touch the Univerſal Shore,</l>
+            <l>Where we ſhall never grieve or ſuffer more.</l>
+            <l>There reſt with thy Contemporaries reſt,</l>
+            <l>Bleſt Saint to reap the Triumphs of the bleſt;</l>
+            <l>Where in Immortal Songs great <hi>HALES</hi> and thee</l>
+            <l>May joyn in Choire, one Voice one Harmony.</l>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>J. Walthoe,</hi> at the <hi>Black-Lyon</hi> in <hi>Chancery-Lane,</hi> againſt <hi>Lincolns-Inn,</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
